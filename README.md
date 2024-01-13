@@ -4,7 +4,8 @@ About me
 
 Latest YouTube Video
 
-Languages and Toolls
+### Languages and Toolls
+![Java Script](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=8A2BE2)
 
 Follow Me
 
