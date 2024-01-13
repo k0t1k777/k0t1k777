@@ -5,7 +5,7 @@ About me
 Latest YouTube Video
 
 ### Languages and Toolls
-![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html&logoColor=8A2BE2)
+![HTML](https://img.shields.io/badge/-Html-090909?style=for-the-badge&logo=Html&logoColor=8A2BE2)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS&logoColor=8A2BE2)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=00FFFF)
 ![Java Script](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=8A2BE2)
