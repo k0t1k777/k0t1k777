@@ -14,6 +14,6 @@ Latest YouTube Video
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=228B22)
 
 ### Follow Me
-![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=0000CD)(https://vk.com/nickolai_s)
-![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=4682B4)(https://t.me/ni_kolyaus)
-![YouTube](https://img.shields.io/badge/-YouTube-090908?style=for-the-badge&logo=YouTube&logoColor=B22222)(https://www.youtube.com/@DRONE_SILVER_HAND)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=0000CD)](https://vk.com/nickolai_s)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=4682B4)](https://t.me/ni_kolyaus)
+[![YouTube](https://img.shields.io/badge/-YouTube-090908?style=for-the-badge&logo=YouTube&logoColor=B22222)](https://www.youtube.com/@DRONE_SILVER_HAND)
