@@ -1,6 +1,8 @@
 ![Header](https://github.com/k0t1k777/k0t1k777/blob/main/assets/name.bmp)
 
-About me
+### About me
+Добрый день! 
+Меня зовут Николай. Я начинающий frontend разработчик. Я закончил курсы Web-разработки в Яндекс.Практикуме, где изучал HTML, CSS, JS, React и основы бэкенда на Node.js.
 
 ### Languages and Toolls
 ![HTML](https://img.shields.io/badge/-Html-090909?style=for-the-badge&logo=HTML&logoColor=8A2BE2)
