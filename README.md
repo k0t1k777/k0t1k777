@@ -8,7 +8,7 @@ About me
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=00FFFF)
 ![Java Script](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=8A2BE2)
 ![React.js](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=FF0000)
-![Node.js](https://img.shields.io/badge/-Node-090909?style=for-the-badge&logo=Node.js&logoColor=8A2BE2)
+![Node.js](https://img.shields.io/badge/-Node-090909?style=for-the-badge&logo=Node.js&logoColor=008080)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=228B22)
 
 ### Follow Me
