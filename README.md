@@ -2,7 +2,7 @@
 
 ### About me
 Добрый день! 
-Меня зовут Николай. Я frontend разработчик. Мой стэк: CSS, SCSS, JS, TypeScript, React, Soket.io и основы бэкенда на Node.js.
+Меня зовут Николай. Я frontend разработчик. Мои навыки: TypeScript, SCSS, CSS, JS, React, Soket.io, Node.js.
 
 ### Languages and Toolls
 ![HTML](https://img.shields.io/badge/-Html-090909?style=for-the-badge&logo=HTML&logoColor=8A2BE2)
