@@ -1,6 +1,7 @@
 ![Header](https://github.com/k0t1k777/k0t1k777/blob/main/assets/name.bmp)
 
 ### About me
+
 Добрый день! 
 Меня зовут Николай. Я frontend разработчик. Мои навыки: TypeScript, SCSS, CSS, JS, React, Soket.io, Node.js.
 
