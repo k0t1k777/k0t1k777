@@ -7,6 +7,7 @@
 Меня зовут Николай. Я frontend разработчик. Мои навыки: TypeScript, SCSS, CSS, JS, React, Soket.io, Node.js.
 
 ### Languages and Toolls
+
 ![HTML](https://img.shields.io/badge/-Html-090909?style=for-the-badge&logo=HTML&logoColor=8A2BE2)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=Css&logoColor=8A2BE2)
 ![SCSS](https://img.shields.io/badge/-SCSS-090909?style=for-the-badge&logo=Css&logoColor=8A2BE2)
