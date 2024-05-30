@@ -20,7 +20,6 @@
 ![Java Script](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=8A2BE2)
 ![Express.js](https://img.shields.io/badge/-Node-090909?style=for-the-badge&logo=Node.js&logoColor=008080)
 
-
 ### Follow Me
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=1E90FF)](https://vk.com/nickolai_s)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=4682B4)](https://t.me/ni_kolyaus)
