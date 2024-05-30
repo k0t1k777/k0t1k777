@@ -3,7 +3,7 @@
 ### About me
 
 Добрый день! 
-Меня зовут Николай. Я frontend разработчик. Мои навыки: TypeScript, React, Redux, RTK Query, SCSS, CSS, JS, Soket.io, Node.js.
+Меня зовут Николай. Я frontend разработчик. Мои навыки: TypeScript, React, Redux, RTK Query, Axios, SCSS, CSS, JS, Soket.io, Node.js.
 
 ### Languages and Toolls
 
