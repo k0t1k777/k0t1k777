@@ -7,7 +7,7 @@
 
 ### Languages and Toolls
 
-![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=#3366CC&logoColor=8A2BE2)
+![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML&logoColor=8A2BE2)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=Css&logoColor=8A2BE2)
 ![SCSS](https://img.shields.io/badge/-SCSS-090909?style=for-the-badge&logo=Css&logoColor=8A2BE2)
 ![Soket.io](https://img.shields.io/badge/-Soket.io-090909?style=for-the-badge&logo=Soket.io&logoColor=FF0000)
@@ -19,6 +19,8 @@
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=00FFFF)
 ![Java Script](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=8A2BE2)
 ![Express.js](https://img.shields.io/badge/-Node-090909?style=for-the-badge&logo=Node.js&logoColor=008080)
+
+![HTML](https://img.shields.io/badge/-html5-090909?style=for-the-badge&logo=HTML&logoColor=8A2BE2)
 
 ### Follow Me
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=1E90FF)](https://vk.com/nickolai_s)
