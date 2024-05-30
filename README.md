@@ -3,7 +3,7 @@
 ### About me
 
 Добрый день! 
-Меня зовут Николай. Я frontend разработчик. Мои навыки: TypeScript, SCSS, CSS, JS, React, Soket.io, Node.js.
+Меня зовут Николай. Я frontend разработчик. Мои навыки: TypeScript, React, Redux, RTK Query, SCSS, CSS, JS, Soket.io, Node.js.
 
 ### Languages and Toolls
 
@@ -15,6 +15,7 @@
 ![React.js](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=FF0000)
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux&logoColor=8A2BE2)
 ![RTK Query](https://img.shields.io/badge/-RTK_Query-090909?style=for-the-badge&logo=RTK_Query&logoColor=8A2BE2)
+![Axios](https://img.shields.io/badge/-Axios-090909?style=for-the-badge&logo=Axios&logoColor=8A2BE2)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=00FFFF)
 ![Java Script](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=8A2BE2)
 ![Express.js](https://img.shields.io/badge/-Node-090909?style=for-the-badge&logo=Node.js&logoColor=008080)
