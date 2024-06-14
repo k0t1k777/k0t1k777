@@ -14,7 +14,6 @@
 ![Axios](https://img.shields.io/badge/-Axios-090909?style=for-the-badge&logo=Axios&logoColor=8A2BE2)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=00FFFF)
 ![Java Script](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=8A2BE2)
-![Express.js](https://img.shields.io/badge/-Express-090909?style=for-the-badge&logo=Express.js&logoColor=008080)
 ![Soket.io](https://img.shields.io/badge/-Soket.io-090909?style=for-the-badge&logo=Soket.io&logoColor=FF0000)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML&logoColor=8A2BE2)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=Css&logoColor=8A2BE2)
