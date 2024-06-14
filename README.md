@@ -15,7 +15,7 @@
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=00FFFF)
 ![Java Script](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=8A2BE2)
 ![Soket.io](https://img.shields.io/badge/-Soket.io-090909?style=for-the-badge&logo=Soket.io&logoColor=8A2BE2)
-![HTML5](https://img.shields.io/badge/html5-%090909.svg?style=for-the-badge&logo=html5&logoColor=8A2BE2)
+![HTML5](https://img.shields.io/badge/html5-090909.svg?style=for-the-badge&logo=html5&logoColor=8A2BE2)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=Css&logoColor=8A2BE2)
 ![SCSS](https://img.shields.io/badge/-SCSS-090909?style=for-the-badge&logo=Scss&logoColor=8A2BE2)
 
