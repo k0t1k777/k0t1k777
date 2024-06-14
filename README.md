@@ -26,3 +26,9 @@
 [![YouTube](https://img.shields.io/badge/-YouTube-090908?style=for-the-badge&logo=YouTube&logoColor=B22222)](https://www.youtube.com/@DRONE_SILVER_HAND)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k0t1k777&show_icons=true&theme=dark)](https://github.com/k0t1k777/github-readme-stats)
+
+## Моя статистика:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k0t1k777&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![codewars](https://www.codewars.com/users/Shnd3r/badges/large)](https://www.codewars.com/users/Shnd3r)
