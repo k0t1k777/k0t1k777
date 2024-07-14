@@ -24,6 +24,7 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=4682B4)](https://t.me/ni_kolyaus)
 [![YouTube](https://img.shields.io/badge/-YouTube-090908?style=for-the-badge&logo=YouTube&logoColor=B22222)](https://www.youtube.com/@DRONE_SILVER_HAND)
 
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k0t1k777&show_icons=true&theme=dark)](https://github.com/k0t1k777/github-readme-stats)
 
 ## Моя статистика:
