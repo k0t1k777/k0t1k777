@@ -32,6 +32,12 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k0t1k777&show_icons=true&theme=dark)](https://github.com/k0t1k777/github-readme-stats)
 
+<div>
+  <img width="51%" align="top"  src="http://github-readme-streak-stats.herokuapp.com?user=v37f&theme=dark&background=000000" alt="webDev's Github stats" />
+  <img  width="47%" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=v37f&layout=compact&theme=vision-friendly-dark" />
+</div>
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k0t1k777&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![codewars](https://www.codewars.com/users/k0t1k777/badges/large)](https://www.codewars.com/users/k0t1k777) -->
