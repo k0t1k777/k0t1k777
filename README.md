@@ -26,7 +26,6 @@
 
 
 
-
 ## Моя статистика:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k0t1k777&show_icons=true&theme=dark)](https://github.com/k0t1k777/github-readme-stats)
