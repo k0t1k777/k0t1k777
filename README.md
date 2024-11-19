@@ -19,7 +19,7 @@
 ![Soket.io](https://img.shields.io/badge/-Soket.io-090909?style=for-the-badge&logo=Soket.io&logoColor=8A2BE2)
 ![SCSS](https://img.shields.io/badge/-SCSS-090909?style=for-the-badge&logo=Scss&logoColor=8A2BE2)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-090909?style=for-the-badge&logo=Tailwind&logoColor=8A2BE2)
-![MobX](https://img.shields.io/badge/-MobX -090909?style=for-the-badge&logo=MobX &logoColor=8A2BE2)
+![MobX](https://img.shields.io/badge/-MobX-090909?style=for-the-badge&logo=MobX&logoColor=8A2BE2)
 
 ### Follow Me
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=1E90FF)](https://vk.com/nickolai_s)
