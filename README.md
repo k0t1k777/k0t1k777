@@ -18,9 +18,9 @@
 ![Axios](https://img.shields.io/badge/-Axios-090909?style=for-the-badge&logo=Axios&logoColor=8A2BE2)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=00FFFF)
 ![Java Script](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=8A2BE2)
-![Socket.io](https://img.shields.io/badge/-Socket.io-090909?style=for-the-badge&logo=Socket.io&logoColor=8A2BE2)
-![SCSS](https://img.shields.io/badge/-SCSS-090909?style=for-the-badge&logo=Sass&logoColor=8A2BE2)
-![Tailwind](https://img.shields.io/badge/-Tailwind-090909?style=for-the-badge&logo=TailwindCSS&logoColor=8A2BE2)
+![Socket.io](https://img.shields.io/badge/-Socket.io-090909?style=for-the-badge&logo=Socket.io&logoColor=F4A460)
+![SCSS](https://img.shields.io/badge/-SCSS-090909?style=for-the-badge&logo=Sass&logoColor=2F4F4F)
+![Tailwind](https://img.shields.io/badge/-Tailwind-090909?style=for-the-badge&logo=TailwindCSS&logoColor=008000)
 ![MobX](https://img.shields.io/badge/-MobX-090909?style=for-the-badge&logo=MobX&logoColor=8A2BE2)
 
 ### Follow Me
