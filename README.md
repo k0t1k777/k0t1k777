@@ -23,6 +23,7 @@
 ![Socket.io](https://img.shields.io/badge/-Socket.io-090909?style=for-the-badge&logo=Socket.io&logoColor=F4A460)
 ![Axios](https://img.shields.io/badge/-Axios-090909?style=for-the-badge&logo=Axios&logoColor=8A2BE2)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=00FFFF)
+![Twig](https://img.shields.io/badge/-Twig-090909?style=for-the-badge&logo=Twig&logoColor=8A2BE2)
 
 ### Follow Me
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=1E90FF)](https://vk.com/nickolai_s)
