@@ -4,7 +4,7 @@
 ### About me
 
 Добрый день! 
-Меня зовут Николай. Я frontend разработчик. Мои навыки: JS/TS, React, TanStack, Redux, RTK Query, Axios, SCSS, Tailwind, Soket.io, Express.
+Меня зовут Николай. Я frontend разработчик. Мои навыки: JS/TS, React, React Native, TanStack, Redux, RTK Query, Axios, SCSS, Tailwind, Soket.io, Express.
 ### Languages and Toolls
 
 ![HTML5](https://img.shields.io/badge/html5-090909.svg?style=for-the-badge&logo=html5&logoColor=8A2BE2)
