@@ -14,6 +14,7 @@
 ![Java Script](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=8A2BE2)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=228B22)
 ![React.js](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=FF0000)
+![React Native](https://img.shields.io/badge/-React%20Native-090909?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/-Next-090909?style=for-the-badge&logo=Next.js&logoColor=FF0000)
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux&logoColor=8A2BE2)
 ![RTK Query](https://img.shields.io/badge/-RTK_Query-090909?style=for-the-badge&logo=Redux&logoColor=8A2BE2)
