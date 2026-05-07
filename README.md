@@ -3,7 +3,6 @@
 
 ### About me
 
-
 Добрый день! 
 Меня зовут Николай. Я мобильный разработчик. Мои навыки: React Native, JS/TS, React, TanStack, Redux, RTK Query, Axios, SCSS, Tailwind, Soket.io, Express.
 ### Languages and Toolls
